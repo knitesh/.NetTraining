@@ -1,0 +1,14 @@
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+c:\users\u328770\documents\visual studio 2013\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\u328770\Documents\Git-Net Training\Code\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\u328770\Documents\Git-Net Training\Code\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\u328770\Documents\Git-Net Training\Code\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
