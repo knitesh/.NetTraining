@@ -1,0 +1,5 @@
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Net Basic Training Part 3\bin\Debug\Net Basic Training Part 3.dll
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Net Basic Training Part 3\bin\Debug\Net Basic Training Part 3.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Net Basic Training Part 3\obj\Debug\Net Basic Training Part 3.dll
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Net Basic Training Part 3\obj\Debug\Net Basic Training Part 3.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Net Basic Training Part 3\obj\Debug\Net Basic Training Part 3.csprojResolveAssemblyReference.cache

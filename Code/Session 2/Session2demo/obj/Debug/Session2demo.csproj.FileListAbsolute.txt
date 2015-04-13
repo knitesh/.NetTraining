@@ -1,0 +1,6 @@
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\Session2demo\bin\Debug\Session2demo.exe.config
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\Session2demo\bin\Debug\Session2demo.exe
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\Session2demo\bin\Debug\Session2demo.pdb
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\Session2demo\obj\Debug\Session2demo.csprojResolveAssemblyReference.cache
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\Session2demo\obj\Debug\Session2demo.exe
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\Session2demo\obj\Debug\Session2demo.pdb

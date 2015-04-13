@@ -1,0 +1,9 @@
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\bin\Debug\UI.exe.config
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\bin\Debug\UI.exe
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\bin\Debug\UI.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\obj\Debug\UI.exe
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\obj\Debug\UI.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\obj\Debug\UI.UI_Main.resources
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\UI\obj\Debug\UI.UI_DataType.resources

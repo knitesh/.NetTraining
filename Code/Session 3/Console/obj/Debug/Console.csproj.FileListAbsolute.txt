@@ -1,0 +1,8 @@
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\bin\Debug\Console.exe.config
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\bin\Debug\Console.exe
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\bin\Debug\Console.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\bin\Debug\Net Basic Training Part 3.dll
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\bin\Debug\Net Basic Training Part 3.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\obj\Debug\Console.exe
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 3\Console\obj\Debug\Console.pdb

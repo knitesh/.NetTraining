@@ -1,0 +1,14 @@
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\bin\Debug\UI.exe.config
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\bin\Debug\UI.exe
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\bin\Debug\UI.pdb
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\obj\Debug\UI.Form1.resources
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\obj\Debug\UI.exe
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\obj\Debug\UI.pdb
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\bin\Debug\AdditionLogic.dll
+c:\users\u328770\documents\visual studio 2013\Projects\Session2demo\UI\bin\Debug\AdditionLogic.pdb
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 2\UI\bin\Debug\UI.exe.config
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 2\UI\obj\Debug\UI.exe
+C:\Users\u328770\Documents\Git-Net Training\Code\Session 2\UI\obj\Debug\UI.pdb
