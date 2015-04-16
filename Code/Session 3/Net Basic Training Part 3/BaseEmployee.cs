@@ -11,7 +11,7 @@ namespace Net_Basic_Training_Part_3
         //Error, given the address of objects is determined at runtime
         // public const Employee HrEmployee = new Employee(1,"Hr1");
 
-        public readonly  BaseEmployee HrEmployee = new BaseEmployee(1, "Hr1");
+        public readonly BaseEmployee HrEmployee;// = new BaseEmployee(1, "Hr1");
 
         public int EmployeeId { get; set; }
         public string EmployeeName { get; set; }
@@ -24,6 +24,11 @@ namespace Net_Basic_Training_Part_3
         {
             EmployeeId = id;
             EmployeeName = name;
+        }
+
+        public void CalculateSalary(BaseEmployee iNUmberofHours, ref double dblHourlyRate, params int[] employeeId)
+        {
+           // totalSalary = 10.0;
         }
     }
 }

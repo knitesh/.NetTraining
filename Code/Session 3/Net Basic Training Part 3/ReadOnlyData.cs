@@ -10,9 +10,11 @@ namespace Net_Basic_Training_Part_3
     {
        public  void DisplayData()
        {
-          var objEmployee = new BaseEmployee();
-           //Error can't change the value for the readonly field
-           objEmployee.HrEmployee = new BaseEmployee();
+           var value = ConstData.PI;
+
+          //var objEmployee = new BaseEmployee();
+           ////Error can't change the value for the readonly field
+           //var r = BaseEmployee.HrEmployee;
        }
     }
 }

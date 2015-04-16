@@ -20,7 +20,12 @@ namespace Net_Basic_Training_Part_3
         {
             string[] books = {"Data Structure", "Logical Design", "Data Communication"};
 
-            foreach (string s in books)
+            //for (var i = 0; i < books.Length; i++)
+            //{
+            //    Console.WriteLine(books[i]);
+            //}
+
+            foreach (var s in books)
             {
                 Console.WriteLine(s);
             }
@@ -28,7 +33,9 @@ namespace Net_Basic_Training_Part_3
 
         public void SimpleWhile()
         {
-            int i = 0;
+            int i = 10;
+            Console.WriteLine("Inside While Method;");
+
             while (i<10)
             {
                 Console.WriteLine(i);
@@ -38,8 +45,8 @@ namespace Net_Basic_Training_Part_3
 
         public void SimpleDoWhile()
         {
-            int i = 0;
-
+            int i = 10;
+            Console.WriteLine("Inside Do/While Method;");
             do
             {
                 Console.WriteLine(i);

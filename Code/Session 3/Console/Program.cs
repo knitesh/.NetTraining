@@ -11,8 +11,29 @@ namespace Console
     {
         static void Main(string[] args)
         {
+            //DataType 
+            /*
             var objDataType = new DataType();
-            objDataType.TypeInference();
+
+            objDataType.TypeInference();           
+
+            
+            ////Access Const values
+            //var PI_value = ConstData.PI;
+            //var isTruth = ConstData.Truth;
+
+            System.Console.ReadLine
+             * */
+
+            //var objIteration = new Iteration();
+            ////objIteration.SimpleForLoop();
+            //objIteration.SimpleWhile();
+
+            //objIteration.SimpleDoWhile();
+
+            var objConditional = new DecisionConstructscs();
+
+            objConditional.SimpleIfElse();
 
             System.Console.ReadLine();
         }

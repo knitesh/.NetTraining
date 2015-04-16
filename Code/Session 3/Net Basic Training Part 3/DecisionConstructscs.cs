@@ -29,23 +29,31 @@ namespace Net_Basic_Training_Part_3
 
         public void SimpleIfElse()
         {
-            Console.WriteLine("Type in a string");
-            string input = Console.ReadLine();
-            
-            if (input == "")
+            while (true)
             {
-                Console.WriteLine("You typed in an empty string.");
-            }
-            else if (input.Length < 5)
-            {
-                Console.WriteLine("The string had less than 5 characters.");
-            }
-            else if (input.Length < 10)
-            {
-                Console.WriteLine("The string had at least 5 but less than 10 Characters.");
-            }
+                Console.WriteLine("Type in a string");
+                string input = Console.ReadLine();
 
-            Console.WriteLine("The string was " + input);
+
+                if (input == "")
+                {
+                    Console.WriteLine("You typed in an empty string.");
+                }
+                else if (input.Length < 5)
+                {
+                    Console.WriteLine("The string had less than 5 characters.");
+                }
+                else if (input.Length < 10)
+                {
+                    Console.WriteLine("The string had at least 5 but less than 10 Characters.");
+                }
+                else
+                {
+                    Console.WriteLine("Unable to determine length of string");
+                }
+
+                Console.WriteLine("The string was " + input);
+            }
         }
     }
 }
