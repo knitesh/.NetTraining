@@ -25,3 +25,9 @@ namespace Net_Basic_Training_Part_3
 int a=10,b=20;
 Swap<int>(ref a,ref b);
  */
+
+/*
+ * string a= "somevalue";
+ * string b= "somevalue2"
+ * Swap<string>(ref a,ref b);
+ * */

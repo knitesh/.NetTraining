@@ -1,0 +1,35 @@
+﻿@model WebApplication_MVC.Models.RSVP
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RSVP</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+</head>
+<body>
+    <div>
+        <form class="form-inline" action="/Conference/RSVP" method="post">
+            <div class="form-group">
+                <label for="exampleInputName2">Name</label>
+                <input type="text" class="form-control" id="Name" name="Name" placeholder="Jane Doe">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail2">Email</label>
+                <input type="email" class="form-control" id="Email" name="Email" placeholder="jane.doe@example.com">
+            </div>
+            <button type="submit" class="btn btn-success">Send invitation</button>
+        </form>
+       
+    </div>
+</body>
+</html>
